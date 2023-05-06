@@ -156,8 +156,11 @@ No known bugs at this time.
 ## Authors
 
 Ibuanokpe Peter - [Github](https://github.com/itzcephas)
+  
 Uduaka Colette Chioma - [Github](https://github.com/Chiom23154)
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+  
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico) 
+  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 
 
